@@ -1,0 +1,1 @@
+# AssemblyScript scaffold
